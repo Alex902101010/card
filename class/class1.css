@@ -1,0 +1,38 @@
+ul{
+    padding: 40px;
+    list-style: none;
+}
+
+div{
+    width: 58px;
+
+}
+.div1{
+    background: red;
+    float: left;
+    padding: 10px;
+    border: 1px;
+}
+.div2{
+    background-color: blue;
+}
+.div3{
+    background-color: aqua;
+}
+img{
+    float: right;
+}
+a[target="alex"]{
+    background-color:red;
+}
+
+
+
+
+
+
+
+
+
+
+

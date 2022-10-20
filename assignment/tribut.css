@@ -1,0 +1,39 @@
+ header{
+    width: 65%;
+    margin-left: auto;
+    margin-right:auto ;
+    text-align: center;
+
+
+ }
+
+ body{
+    background-color: gray;
+
+
+ }
+
+ article{ 
+    width:40%;
+    margin-left: auto;
+    margin-right:auto ;
+    text-align: justify;
+
+
+
+ }
+ footer{
+    width: 65%;
+    margin-left: auto;
+    margin-right:auto ;
+    text-align: center;
+ }
+div{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height: auto;
+
+}

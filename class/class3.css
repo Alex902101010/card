@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    padding: 100px;
+    background-color: white;
+}
+.img{
+    width: max-content;
+ 
+
+}

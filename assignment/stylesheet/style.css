@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+
+p{
+    color:black;
+}
+
+p{
+    font-size: 100px;
+    font-style:italic;
+    font-weight: 500;
+    letter-spacing:110cm ;
+    
+}
+a{ 
+    font-size:600;
+}
+
+p{
+    text-indent:;
+}
+.b{
+    width: 50px;
+    border:1px solid;
+    word-wrap: break-word;
+}
+.container div{
+    /* trbl */
+    margin-top: 30px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+    margin-left: 90px;
+padding: 20px5;
+}
+
+.box{
+    width: 500px;
+    height: 400px;
+    margin: 20px;
+    background:url(pexels-vladislav-shurgin-3828744)  ;
+    background-size: ;
+}
+
+    

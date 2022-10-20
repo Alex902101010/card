@@ -1,0 +1,25 @@
+
+.me{
+    margin: 0px;
+}
+table,th,td{
+    border: 1px solid rgb(51, 50, 50);
+    border-collapse:collapse;
+}
+.hey{
+    border: none;
+    background-color: white;
+}
+table{
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    font-family: Arial;
+}
+
+.heyo{
+    height: 300px;
+    width: 500px;
+    border: 2px groove rgb(83, 83, 90);
+}

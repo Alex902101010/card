@@ -1,0 +1,33 @@
+p{
+    color: red;
+}
+
+p{
+    font-size: 100px;
+    font-style:italic;
+    font-weight: 500;
+    letter-spacing:110cm ;
+    
+}
+a{ 
+    font-size:600;
+}
+
+p{
+    text-indent:;
+}
+.b{
+    width: 50px;
+    border:1px solid;
+    word-wrap: break-word;
+}
+.container div{
+    /* trbl */
+    margin-top: 30px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+    margin-left: 90px;
+}
+.boder{
+    border:2px solid red ;}
+    

@@ -1,0 +1,24 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.positiontest{
+    background: red;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    padding: 20px;
+    position: relative;
+}
+.pt2{
+    background: blue;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    padding: 20px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+
+} */
